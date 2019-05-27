@@ -1,8 +1,8 @@
 # PENKTASND
-OOP-5 UZDUOTIS
+## OOP-5 UZDUOTIS
 
 
-ASOCIOTYVIU KONTEINERIU NAUDOJIMAS.
+### ASOCIOTYVIU KONTEINERIU NAUDOJIMAS.
 
 1. Reikejo suskaičiuoti, kiek kartų kiekvienas skirtingas žodis pasikartoja mano tekst. Tuomet realizacijos output'e ("isvestis.txt") išvesti skirtingus žodžius (kableliai, taškai ir kiti skyrybos ženklai nėra žodžiu dalis!), kurie pasikartojo dažniau negu 1 kartą, o taip pat ir count'erį, nurodantį kiek kartų konkretus žodis pasikartojo.
 

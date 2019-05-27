@@ -1,0 +1,83 @@
+Užsienio spauda praneša, kad Google sustabdė bendradarbiavimą su Kinijos technologijų 
+milžine Huawei. Google apribojo Huawei įrenginių prieigą prie tam tikrų programėlių https://stackoverflow.com/questions/20649480/is-there-any-way-to-extract-url-from-text-in-c.
+Naujausi Huawei išmanieji įrenginiai negalės naudotis operacinės sistemos Android 
+atnaujinimais, neteks prieigos prie Google Play Store bei Gmail programėlių.Alphabet Inc 
+priklausantis Google sustabdė su Huawei verslo santykius, reikalaujančius dalintis 
+technine ir programine įranga bei techninėmis paslaugomis, išskyrus tas, kurios yra viešai 
+prieinamos atviro kodo licencijavimo būdu, praneša Reuters. Tai rimtas smūgis Kinijos 
+technologijų kompanijai, kurią JAV vyriausybė siekia visame pasaulyje įtraukti į juodąjį 
+sąrašą. www.vu.lt Dabartinių Huawei išmaniųjų telefonų su Google programomis turėtojai ir toliau 
+galės jomis naudotis bei atsisiųsti Google teikiamus naujinius, pabrėžė Google atstovas 
+spaudai. Mes laikomės oficialaus nurodymo ir atsižvelgiame į pasekmes, - pranešė Google 
+atstovas. https://www.facebook.com Mūsų paslaugų naudotojams Google Play ir Google Play Protect jų turimuose Huawei
+ įrenginiuose veiks ir toliau, - patvirtino jis, nepateikdamas išsamesnės informacijos. 
+Sustabdymas gali supančioti Huawei išmaniųjų telefonų verslą už Kinijos ribų, nes 
+technologijų milžinas kaipmat neteks prieigos prie Google Android operacinės sistemos 
+naujinių. Būsimos Huawei išmaniųjų telefonų versijos, veikiančios su Android, taip pat 
+nebeturės prieigos prie populiarių paslaugų, tokių kaip Google Play Store, Gmail ir 
+YouTube. Huawei galės naudoti tik viešai prieinamą Android versiją ir nebeturės prieigos 
+prie Google priklausančių programų ir paslaugų, - patvirtino šaltinis. D. Trumpo 
+administracija ketvirtadienį įtraukė Huawei Technologies Co Ltd į prekybos juodąjį sąrašą,
+ nedelsiant įvesdama apribojimus, dėl kurių kompanijai bus ypatingai sunku tęsti verslo 
+santykius su Jungtinių Valstijų partneriais. Penktadienį JAV prekybos departamentas 
+patvirtino, kad svarsto Huawei nustatytų apribojimų sumažinimą, siekiant užkirsti kelią 
+esamų tinklo operacijų ir įrangos trikdžiams. Sekmadienį ne iš karto buvo aišku, ar Huawei 
+prieiga prie mobiliosios programinės įrangos iš tiesų nukentės. Kol kas nėra žinoma, kiek
+ JAV vyriausybės sprendimas pakenks Huawei verslui, nes poveikį dar turi įvertinti 
+kompanijos pasaulinė tiekimo grandinė. Lustų ekspertai abejoja Huawei galimybėmis ir 
+toliau veikti be JAV pagalbos. Detalės apie konkrečias paslaugas, kurioms atsilieps 
+sustabdymas, vis dar svarstomos Google viduje, teigia šaltinis. Huawei advokatai taip pat
+ nagrinėja juodojo sąrašo poveikį, pranešė Huawei atstovas spaudai. Huawei į prašymus 
+pakomentuoti sureagavo ne iš karto. Lustų gamintojai, įskaitant Intel Corp, Qualcomm Inc,
+ Xilinx Inc ir Broadcom Inc, savo darbuotojams pranešė, kad nebeteiks Huawei būtinos 
+programinės įrangos ir komponentų iki tolesnio pranešimo, sekmadienį vakare paskelbė 
+Bloomberg, cituodamas žmones, susipažinusius su šiuo klausimu. Intel, Qualcomm, Xilinx ir 
+Broadcom ne iš karto atsakė į prašymus pakomentuoti šį Bloomberg pranešimą. JAV prekybos 
+departamento atstovai komentarų taip pat nepateikė. Kas laukia turinčių Huawei telefonus?
+ Huawei ir toliau turės prieigą prie Android operacinės sistemos versijos, teikiamos pagal 
+atviro kodo licenciją. Ši versija žinoma kaip Android Open Source Project (AOSP) ir yra 
+nemokamai pasiekiama visiems norintiems. Google duomenimis, pasaulyje yra apie 2,5 
+milijardo aktyvių Android įrenginių. Tačiau Google nuo šiol nustos teikti Huawei prieigą, 
+techninę pagalbą ir paramą, susijusią su savo patentuotomis programomis ir paslaugomis, 
+pranešė šaltinis.Huawei teigia per pastaruosius kelerius metus parengęs atsarginį planą ir
+ išvystęs savo technologijas tam atvejui, jei nebegalėtų naudotis Android. Kai kurios iš 
+šių technologijų jau dabar įdiegtos Kinijoje parduodamuose produktuose, pranešė kompanija.
+ Kovo mėnesį vykusiame interviu su Reuters Huawei pirmininkas Eric Xu pareiškė drąsią 
+pastabą apie galimus JAV kompanijų atsakomuosius veiksmus. Kad ir kas nutiktų, Android 
+Community neturi jokios teisės uždrausti kuriai nors kompanijai prieigą prie savo atviro
+ kodo licencijos, - pabrėžė jis. Populiarios Google programos, tokios kaip Gmail, YouTube 
+ir Chrome naršyklė, pasiekiamos per Google Play Store, išnyks iš būsimų Huawei telefonų,
+ nes šios paslaugos nėra įtrauktos į atviro kodo licenciją ir reikalauja komercinio 
+susitarimo su Google. Tačiau esamų Huawei įrenginių naudotojai, turintys prieigą prie 
+Google Play Store, ir toliau galės atsisiųsti Google teikiamus programų naujinius. Tokios
+ programos, kaip Gmail, yra atnaujinamos per Google Play Store, tačiau operacinės sistemos
+ naujinius paprastai tvarko telefonų gamintojai ir telekomunikacijų operatoriai, kuriems 
+gali turėti įtakos juodasis sąrašas, teigia šaltinis.Prognozuojama, kad poveikis Kinijos 
+rinkai bus minimalus. Dauguma Google mobiliųjų programų Kinijoje ir taip yra uždraustos, o 
+jų alternatyvas siūlo vietiniai konkurentai, tokie kaip Tencent ir Baidu. Huawei verslas
+ Europoje, antroje pagal dydį kompanijos rinkoje, taip pat gali nukentėti, nes Huawei 
+licencijuoja Google paslaugas šiame regione. Minėtos programos išmaniųjų telefonų kūrėjams 
+yra būtinos, jeigu jie nori išlikti konkurencingi tokiuose regionuose kaip Europa, - 
+pabrėžė Geoffas Blaberis, CCS Insight tyrimų viceprezidentas. 5G srities lyderė Kinijos bendrovė
+ sparčiai plečiasi 5G technologijų srityje, kurioje jau išsiveržė į lyderio vietą,
+ praneša BNS. Be to, bendrovė šių metų pirmąjį ketvirtį pardavė daugiau išmaniųjų telefonų negu 
+JAV technologijų milžinė Apple ir didžiausių pasaulio išmaniųjų telefonų gamintojų 
+reitinge užėmė antrą vietą. Tačiau Huawei tebėra priklausoma nuo užsienio tiekėjų. 
+Japonijos verslo dienraščio Nikkei duomenimis, Huawei kiekvienais metais įsigyja dalių už
+ maždaug 67 mlrd. JAV dolerių, įskaitant maždaug 11 mlrd. JAV dolerių vertės dalis, kurios
+ perkamos iš JAV tiekėjų. Savo įrangos gamyboje Huawei taip pat plačiai naudoja 
+puslaidininkius, kuriuos gamina JAV gamintojai Qualcomm, Intel ir Broadcom. Agentūros 
+Bloomberg duomenimis, bendrovės Intel, Qualcomm, Xilinx ir Broadcom savo darbuotojams 
+pranešė, jog produktų tiekimas Huawei stabdomas iki atskiro pranešimo. Kinijos bendrovės 
+prieigos prie pagrindinių įrangos dalių blokavimas turės neigiamos įtakos ir JAV 
+puslaidininkių tiekėjams, ir visam pasaulio puslaidininkių sektoriui, įspėja ekspertai. 
+Huawei yra gerokai priklausoma nuo JAV puslaidininkių ir rimtai nukentės, jeigu negalės 
+gauti pagrindinių įrangos dalių, pažymėjo finansinių paslaugų bendrovės Rosenblatt 
+Securities analitikas Ryanas Koontzas (Rajenas Kuncas). Jungtinių Valstijų įvestas draudimas
+ gali priversti Kiniją atidėti 5G tinklo diegimą, o tai padarys neigiamą poveikį
+ pasaulio įrangos sudedamųjų dalių tiekėjams, mano ekspertas. Žiniasklaidoje pranešama,
+ jog Huawei sukaupė dideles įrangos sudedamųjų dalių atsargas ir ieško alternatyvių 
+puslaidininkių tiekimo šaltinių. Be to, bendrovė kuria nuosavą išmaniųjų telefonų 
+operacinę sistemą.
+
+

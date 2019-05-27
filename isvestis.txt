@@ -1,7 +1,5 @@
 Words that appear more than once in the text: 
 
-The word  "" appears 5 times on the following lines:
-11 13 19 48 60 
 The word  "5g" appears 3 times on the following lines:
 61 62 77 
 The word  "android" appears 9 times on the following lines:

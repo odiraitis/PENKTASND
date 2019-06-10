@@ -8,15 +8,15 @@ prieinamos atviro kodo licencijavimo būdu, praneša Reuters. Tai rimtas smūgis
 technologijų kompanijai, kurią JAV vyriausybė siekia visame pasaulyje įtraukti į juodąjį 
 sąrašą. www.vu.lt Dabartinių Huawei išmaniųjų telefonų su Google programomis turėtojai ir toliau 
 galės jomis naudotis bei atsisiųsti Google teikiamus naujinius, pabrėžė Google atstovas 
-spaudai. Mes laikomės oficialaus nurodymo ir atsižvelgiame į pasekmes, - pranešė Google 
+spaudai. Mes laikomės oficialaus nurodymo ir atsižvelgiame į pasekmes,- pranešė Google
 atstovas. https://www.facebook.com Mūsų paslaugų naudotojams Google Play ir Google Play Protect jų turimuose Huawei
- įrenginiuose veiks ir toliau, - patvirtino jis, nepateikdamas išsamesnės informacijos. 
+įrenginiuose veiks ir toliau,- patvirtino jis, nepateikdamas išsamesnės informacijos. 
 Sustabdymas gali supančioti Huawei išmaniųjų telefonų verslą už Kinijos ribų, nes 
 technologijų milžinas kaipmat neteks prieigos prie Google Android operacinės sistemos 
 naujinių. Būsimos Huawei išmaniųjų telefonų versijos, veikiančios su Android, taip pat 
 nebeturės prieigos prie populiarių paslaugų, tokių kaip Google Play Store, Gmail ir 
 YouTube. Huawei galės naudoti tik viešai prieinamą Android versiją ir nebeturės prieigos 
-prie Google priklausančių programų ir paslaugų, - patvirtino šaltinis. D. Trumpo 
+prie Google priklausančių programų ir paslaugų,- patvirtino šaltinis. D. Trumpo 
 administracija ketvirtadienį įtraukė Huawei Technologies Co Ltd į prekybos juodąjį sąrašą,
  nedelsiant įvesdama apribojimus, dėl kurių kompanijai bus ypatingai sunku tęsti verslo 
 santykius su Jungtinių Valstijų partneriais. Penktadienį JAV prekybos departamentas 
@@ -45,7 +45,7 @@ pranešė šaltinis.Huawei teigia per pastaruosius kelerius metus parengęs atsa
  Kovo mėnesį vykusiame interviu su Reuters Huawei pirmininkas Eric Xu pareiškė drąsią 
 pastabą apie galimus JAV kompanijų atsakomuosius veiksmus. Kad ir kas nutiktų, Android 
 Community neturi jokios teisės uždrausti kuriai nors kompanijai prieigą prie savo atviro
- kodo licencijos, - pabrėžė jis. Populiarios Google programos, tokios kaip Gmail, YouTube 
+ kodo licencijos,- pabrėžė jis. Populiarios Google programos, tokios kaip Gmail, YouTube 
 ir Chrome naršyklė, pasiekiamos per Google Play Store, išnyks iš būsimų Huawei telefonų,
  nes šios paslaugos nėra įtrauktos į atviro kodo licenciją ir reikalauja komercinio 
 susitarimo su Google. Tačiau esamų Huawei įrenginių naudotojai, turintys prieigą prie 
@@ -57,7 +57,7 @@ rinkai bus minimalus. Dauguma Google mobiliųjų programų Kinijoje ir taip yra 
 jų alternatyvas siūlo vietiniai konkurentai, tokie kaip Tencent ir Baidu. Huawei verslas
  Europoje, antroje pagal dydį kompanijos rinkoje, taip pat gali nukentėti, nes Huawei 
 licencijuoja Google paslaugas šiame regione. Minėtos programos išmaniųjų telefonų kūrėjams 
-yra būtinos, jeigu jie nori išlikti konkurencingi tokiuose regionuose kaip Europa, - 
+yra būtinos, jeigu jie nori išlikti konkurencingi tokiuose regionuose kaip Europa,- 
 pabrėžė Geoffas Blaberis, CCS Insight tyrimų viceprezidentas. 5G srities lyderė Kinijos bendrovė
  sparčiai plečiasi 5G technologijų srityje, kurioje jau išsiveržė į lyderio vietą,
  praneša BNS. Be to, bendrovė šių metų pirmąjį ketvirtį pardavė daugiau išmaniųjų telefonų negu 

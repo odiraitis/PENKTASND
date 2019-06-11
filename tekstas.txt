@@ -36,7 +36,7 @@ Broadcom ne iš karto atsakė į prašymus pakomentuoti šį Bloomberg pranešim
 departamento atstovai komentarų taip pat nepateikė. Kas laukia turinčių Huawei telefonus?
  Huawei ir toliau turės prieigą prie Android operacinės sistemos versijos, teikiamos pagal 
 atviro kodo licenciją. Ši versija žinoma kaip Android Open Source Project (AOSP) ir yra 
-nemokamai pasiekiama visiems norintiems. Google duomenimis, pasaulyje yra apie 2,5 
+nemokamai pasiekiama visiems norintiems. Google duomenimis, pasaulyje yra apie2,5
 milijardo aktyvių Android įrenginių. Tačiau Google nuo šiol nustos teikti Huawei prieigą, 
 techninę pagalbą ir paramą, susijusią su savo patentuotomis programomis ir paslaugomis, 
 pranešė šaltinis.Huawei teigia per pastaruosius kelerius metus parengęs atsarginį planą ir
@@ -58,8 +58,8 @@ jų alternatyvas siūlo vietiniai konkurentai, tokie kaip Tencent ir Baidu. Huaw
  Europoje, antroje pagal dydį kompanijos rinkoje, taip pat gali nukentėti, nes Huawei 
 licencijuoja Google paslaugas šiame regione. Minėtos programos išmaniųjų telefonų kūrėjams 
 yra būtinos, jeigu jie nori išlikti konkurencingi tokiuose regionuose kaip Europa,- 
-pabrėžė Geoffas Blaberis, CCS Insight tyrimų viceprezidentas. 5G srities lyderė Kinijos bendrovė
- sparčiai plečiasi 5G technologijų srityje, kurioje jau išsiveržė į lyderio vietą,
+pabrėžė Geoffas Blaberis, CCS Insight tyrimų viceprezidentas. Srities lyderė Kinijos bendrovė
+ sparčiai plečiasi technologijų srityje, kurioje jau išsiveržė į lyderio vietą,
  praneša BNS. Be to, bendrovė šių metų pirmąjį ketvirtį pardavė daugiau išmaniųjų telefonų negu 
 JAV technologijų milžinė Apple ir didžiausių pasaulio išmaniųjų telefonų gamintojų 
 reitinge užėmė antrą vietą. Tačiau Huawei tebėra priklausoma nuo užsienio tiekėjų. 
@@ -74,7 +74,7 @@ puslaidininkių tiekėjams, ir visam pasaulio puslaidininkių sektoriui, įspėj
 Huawei yra gerokai priklausoma nuo JAV puslaidininkių ir rimtai nukentės, jeigu negalės 
 gauti pagrindinių įrangos dalių, pažymėjo finansinių paslaugų bendrovės Rosenblatt 
 Securities analitikas Ryanas Koontzas (Rajenas Kuncas). Jungtinių Valstijų įvestas draudimas
- gali priversti Kiniją atidėti 5G tinklo diegimą, o tai padarys neigiamą poveikį
+ gali priversti Kiniją atidėti tinklo diegimą, o tai padarys neigiamą poveikį
  pasaulio įrangos sudedamųjų dalių tiekėjams, mano ekspertas. Žiniasklaidoje pranešama,
  jog Huawei sukaupė dideles įrangos sudedamųjų dalių atsargas ir ieško alternatyvių 
 puslaidininkių tiekimo šaltinių. Be to, bendrovė kuria nuosavą išmaniųjų telefonų 

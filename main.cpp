@@ -21,6 +21,7 @@ int main()
     while(std::getline(in, eilute))
     {
         std::transform(eilute.begin(), eilute.end(), eilute.begin(), ::tolower); // lowering letters so for example "Mom"= "mom"
+        eilute.erase(std::remove_if(eilute.begin(),eilute.end(),::isnumber),eilute.end());
         std::stringstream read(eilute);
         std::string word;
         while (read >> word)
@@ -28,6 +29,8 @@ int main()
             if(std::regex_match(word, std::regex("[(http(s)?):\\/\\/(www\\.)?a-zA-Z0-9@:%._\\+~#=]{2,256}\\.[a-z]{2,6}\\b([-a-zA-Z0-9@:%_\\+.~#?&//=]*)") )){
                 linkas.insert(std::pair<std::string,int>(word,line_number));
             }
+            
+            
             
              word.erase (std::remove_if(word.begin(), word.end(), ::ispunct), word.end()); // istrinu skyrybos zenklus
             // we call map::insert, not `[ ]` to insert into a map
@@ -51,19 +54,38 @@ int main()
      std::ofstream out("isvestis.txt");
     out<<"Words that appear more than once in the text: "<<std::endl;
     out<<std::endl;
+
+    
+    int did=0;
+      for (auto& it : wm )
+      {
+          if(did<it.second.first)
+          {
+              did=it.second.first;
+              std::cout<<it.second.first<< " "<<it.first<<std::endl;
+              std::cout<<did<<std::endl;
+          }
+      }
+
      for (auto& it : wm )
         {
-           if((it.second.first)>1)
+            
+            
+            for (int i=0; i<=did ;i++)
             {
-                
-                 out << "The word  \"" << it.first << "\" appears " << it.second.first << " times on the following lines:\n";
-               
-                for ( auto& it2 : it.second.second)
-                    out << it2 << " ";
-                
-               out<<std::endl;
-         
+                if((it.second.first)==i && it.second.first>1)
+                {
+                    
+                    out << "The word  \"" << it.first << "\" appears " << it.second.first << " times on the following lines:\n";
+                    
+                    for ( auto& it2 : it.second.second)
+                        out << it2 << " ";
+                    
+                    out<<std::endl;
+                    
+                }
             }
+           
         }
    out<<std::endl;
 

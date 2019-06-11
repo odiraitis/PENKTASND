@@ -1,4 +1,4 @@
-Užsienio spauda praneša, kad Google sustabdė bendradarbiavimą su Kinijos technologijų 
+Užsienio spauda spauda praneša, kad Google sustabdė bendradarbiavimą su Kinijos technologijų 
 milžine Huawei. Google apribojo Huawei įrenginių prieigą prie tam tikrų programėlių https://stackoverflow.com/questions/20649480/is-there-any-way-to-extract-url-from-text-in-c.
 Naujausi Huawei išmanieji įrenginiai negalės naudotis operacinės sistemos Android 
 atnaujinimais, neteks prieigos prie Google Play Store bei Gmail programėlių.Alphabet Inc 

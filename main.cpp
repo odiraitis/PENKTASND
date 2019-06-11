@@ -62,8 +62,7 @@ int main()
           if(did<it.second.first)
           {
               did=it.second.first;
-              std::cout<<it.second.first<< " "<<it.first<<std::endl;
-              std::cout<<did<<std::endl;
+             
           }
       }
 
@@ -79,6 +78,7 @@ int main()
                     out << "The word  \"" << it.first << "\" appears " << it.second.first << " times on the following lines:\n";
                     
                     for ( auto& it2 : it.second.second)
+                        
                         out << it2 << " ";
                     
                     out<<std::endl;
